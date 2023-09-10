@@ -1,5 +1,5 @@
 ﻿using MelonLoader;
-using SLZ.Marrow.SceneStreaming;
+using Il2CppSLZ.Marrow.SceneStreaming;
 using UnityEngine;
 
 namespace LevelReloader
