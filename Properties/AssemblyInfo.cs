@@ -1,7 +1,4 @@
-﻿using System.Reflection;
-using MelonLoader;
-
-[assembly: AssemblyTitle(LevelReloader.Main.Description)]
+﻿[assembly: AssemblyTitle(LevelReloader.Main.Description)]
 [assembly: AssemblyDescription(LevelReloader.Main.Description)]
 [assembly: AssemblyCompany(LevelReloader.Main.Company)]
 [assembly: AssemblyProduct(LevelReloader.Main.Name)]

@@ -1,2 +1,2 @@
 # LevelReloader
-A BONELAB mod that reloads the level when you click "R".
+Reloads the level when you hit "Control-R" on your keyboard.
